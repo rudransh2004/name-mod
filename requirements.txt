@@ -1,0 +1,4 @@
+Flask 
+Flask-Session
+Werkzeug==2.0.3
+gunicorn
