@@ -2,3 +2,7 @@ Flask
 Flask-Session
 Werkzeug==2.0.3
 gunicorn
+eventlet
+python-socketio==4.6.0
+python-engineio==3.13.2
+gevent-websocket
